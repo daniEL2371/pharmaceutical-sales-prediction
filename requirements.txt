@@ -1,0 +1,17 @@
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+pandas
+scipy
+dvc
+mlflow
+pickleshare==0.7.5
+sklearn==0.0
+statsmodels
+Keras==2.4.3
+scikit-learn==0.24.2
+scipy
+tensorflow
+tensorflow-estimator
