@@ -46,7 +46,7 @@ class Helper:
 
         return df
 
-    def get_data(tag, path='data/data.csv', repo='https://github.com/daniEL2371/pharmaceutical-sales-prediction'):
+    def get_data(self, tag, path='data/data.csv', repo='https://github.com/daniEL2371/pharmaceutical-sales-prediction'):
         rev = tag
         data_url = dvc.api.get_url(path=path, repo=repo, rev=rev)
         df = pd.read_csv(data_url)
