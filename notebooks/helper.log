@@ -1100,3 +1100,164 @@
 2021-07-31 15:33:23,921 : INFO : app_logger : file read as csv from ../data/store.csv
 2021-07-31 15:33:23,997 : INFO : app_logger : file read as csv from ../data/test.csv
 2021-07-31 15:33:23,997 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-07-31 21:11:05,593 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-07-31 21:11:05,593 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-07-31 21:11:05,609 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-07-31 21:11:05,609 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-07-31 21:11:05,743 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-07-31 21:11:05,743 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 08:55:09,650 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 08:55:09,650 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 08:55:09,662 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 08:55:09,662 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 08:55:09,734 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 08:55:09,734 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 09:02:33,031 : INFO : app_logger : Model dumped to regressor_model.pkl
+2021-08-01 09:02:33,031 : INFO : app_logger : Model dumped to regressor_model.pkl
+2021-08-01 09:03:16,573 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 09:03:16,573 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 09:42:44,104 : INFO : app_logger : Model dumped to regressor_model.pkl
+2021-08-01 09:42:44,104 : INFO : app_logger : Model dumped to regressor_model.pkl
+2021-08-01 09:43:18,872 : INFO : app_logger : Model dumped to regressor_model-2021-08-01 09:43:18.871771.pkl
+2021-08-01 09:43:18,872 : INFO : app_logger : Model dumped to regressor_model-2021-08-01 09:43:18.871771.pkl
+2021-08-01 09:43:30,105 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 09:43:30,105 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 09:57:02,556 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 09:57:02,556 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 09:57:02,565 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 09:57:02,565 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 09:57:02,636 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 09:57:02,636 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 10:00:15,036 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 10:00:15,036 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 10:00:15,055 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 10:00:15,055 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 10:00:15,138 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 10:00:15,138 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 10:02:01,703 : INFO : app_logger : Model dumped to regressor_model.pkl
+2021-08-01 10:02:01,703 : INFO : app_logger : Model dumped to regressor_model.pkl
+2021-08-01 10:02:14,835 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 10:02:14,835 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 13:32:22,770 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 13:32:22,770 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 13:32:22,778 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 13:32:22,778 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 13:32:22,835 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 13:32:22,835 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 13:34:46,958 : INFO : app_logger : Model dumped to regressor_model-2021-08-01 13:34:46.958024.pkl
+2021-08-01 13:34:46,958 : INFO : app_logger : Model dumped to regressor_model-2021-08-01 13:34:46.958024.pkl
+2021-08-01 13:44:11,303 : INFO : app_logger : Model dumped to regressor_model.pkl
+2021-08-01 13:44:11,303 : INFO : app_logger : Model dumped to regressor_model.pkl
+2021-08-01 13:44:20,590 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 13:44:20,590 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:05:12,328 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:05:12,328 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:06:23,859 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:06:23,859 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:07:36,448 : INFO : app_logger : Model dumped to lr_model.pkl
+2021-08-01 14:07:36,448 : INFO : app_logger : Model dumped to lr_model.pkl
+2021-08-01 14:07:37,355 : INFO : app_logger : Model loaded from lr_model.pkl
+2021-08-01 14:07:37,355 : INFO : app_logger : Model loaded from lr_model.pkl
+2021-08-01 14:08:20,151 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 14:08:20,151 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 14:08:20,159 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 14:08:20,159 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 14:08:20,213 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 14:08:20,213 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 14:09:10,369 : INFO : app_logger : Model dumped to regressor_model.pkl
+2021-08-01 14:09:10,369 : INFO : app_logger : Model dumped to regressor_model.pkl
+2021-08-01 14:09:11,169 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:09:11,169 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:10:00,401 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:10:00,401 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:11:02,507 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:11:02,507 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:11:09,826 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:11:09,826 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 14:12:04,495 : INFO : app_logger : Model dumped to lr_model.pkl
+2021-08-01 14:12:04,495 : INFO : app_logger : Model dumped to lr_model.pkl
+2021-08-01 14:12:19,321 : INFO : app_logger : Model loaded from lr_model.pkl
+2021-08-01 14:12:19,321 : INFO : app_logger : Model loaded from lr_model.pkl
+2021-08-01 14:14:56,431 : INFO : app_logger : Model dumped to regressor_model.pkl
+2021-08-01 14:14:56,431 : INFO : app_logger : Model dumped to regressor_model.pkl
+2021-08-01 18:44:10,086 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:44:10,086 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:44:10,112 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:44:10,112 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:44:10,175 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:44:10,175 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:50:34,374 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:50:34,374 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:50:34,382 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:50:34,382 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:50:34,432 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:50:34,432 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:51:33,674 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:51:33,674 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:51:33,692 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:51:33,692 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:51:33,751 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:51:33,751 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:53:50,743 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:53:50,743 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:53:50,743 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:53:50,764 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:53:50,764 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:53:50,764 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:53:50,821 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:53:50,821 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:53:50,821 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:54:50,753 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:54:50,753 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:54:50,760 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:54:50,760 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:54:50,819 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:54:50,819 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:55:54,195 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:55:54,195 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:55:54,202 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:55:54,202 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:55:54,259 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:55:54,259 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:56:43,639 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:56:43,639 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:56:43,647 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:56:43,647 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:56:43,697 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:56:43,697 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:58:21,396 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:58:21,396 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 18:58:21,404 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:58:21,404 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 18:58:21,459 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 18:58:21,459 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 19:00:25,830 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 19:00:25,830 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 19:00:25,836 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 19:00:25,836 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 19:00:25,887 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 19:00:25,887 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 19:01:22,332 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 19:01:22,332 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 19:01:22,339 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 19:01:22,339 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 19:01:22,389 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 19:01:22,389 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 19:02:04,349 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 19:02:04,349 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 19:02:04,356 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 19:02:04,356 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 19:02:04,405 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 19:02:04,405 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 19:09:19,958 : INFO : app_logger : Model dumped to regressor_model-1627834159.957317.pkl
+2021-08-01 19:09:19,958 : INFO : app_logger : Model dumped to regressor_model-1627834159.957317.pkl
+2021-08-01 19:09:40,665 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 19:09:40,665 : INFO : app_logger : Model loaded from regressor_model.pkl
+2021-08-01 19:09:59,590 : INFO : app_logger : Model loaded from regressor_model-1627834159.957317.pkl
+2021-08-01 19:09:59,590 : INFO : app_logger : Model loaded from regressor_model-1627834159.957317.pkl
+2021-08-01 19:10:28,471 : INFO : app_logger : Model dumped to lr_model.pkl
+2021-08-01 19:10:28,471 : INFO : app_logger : Model dumped to lr_model.pkl
+2021-08-01 19:11:13,469 : INFO : app_logger : Model dumped to lr_model-1627834273.469195.pkl
+2021-08-01 19:11:13,469 : INFO : app_logger : Model dumped to lr_model-1627834273.469195.pkl
+2021-08-01 19:11:29,304 : INFO : app_logger : Model loaded from lr_model-1627834273.469195.pkl
+2021-08-01 19:11:29,304 : INFO : app_logger : Model loaded from lr_model-1627834273.469195.pkl
