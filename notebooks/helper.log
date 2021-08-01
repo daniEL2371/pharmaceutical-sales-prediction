@@ -1261,3 +1261,11 @@
 2021-08-01 19:11:13,469 : INFO : app_logger : Model dumped to lr_model-1627834273.469195.pkl
 2021-08-01 19:11:29,304 : INFO : app_logger : Model loaded from lr_model-1627834273.469195.pkl
 2021-08-01 19:11:29,304 : INFO : app_logger : Model loaded from lr_model-1627834273.469195.pkl
+2021-08-01 22:40:28,738 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 22:40:28,738 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-01 22:40:28,747 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 22:40:28,747 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-01 22:40:28,801 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 22:40:28,801 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-01 22:42:25,614 : INFO : app_logger : Model dumped to regressor_model-1627846945.614201.pkl
+2021-08-01 22:42:25,614 : INFO : app_logger : Model dumped to regressor_model-1627846945.614201.pkl
