@@ -94,5 +94,6 @@ All models that are trained are saved inside models folder
 - Utility helper functions is implemented in helper.py module
 - Logger class for the project is implemented in app_logger.py module
 - Plotting graphs like scatter plot, histogram, distribution graph, heat map, bar plot, and count plot is is implemented in scripts/plots.py module
-- cleaner for Train data is implemented in cleanTrainData.py
-- cleaner for Store data is implemented in cleanStoreDf.py
+- cleaner for Train data is implemented in cleanTrainData.py module
+- cleaner for Store data is implemented in cleanStoreDf.py module.
+- trining RandomForest regressor model script is implmented in trainRegressor.py module
