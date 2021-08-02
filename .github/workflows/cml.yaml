@@ -14,3 +14,7 @@ jobs:
           pip install -r requirements.txt
           cd scripts
           python trainRegressor.py
+          cd ..
+          cat random-forest-metrics.txt >> report.md
+          #cml-publish random-forest-result.png --md >> report.md
+          cml-send-comment report.md
