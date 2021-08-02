@@ -16,3 +16,5 @@ scipy
 tensorflow
 tensorflow-estimator
 IPython
+gdrivefs
+gdrive
