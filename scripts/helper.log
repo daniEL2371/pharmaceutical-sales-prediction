@@ -52,3 +52,15 @@
 2021-08-01 23:40:01,775 : INFO : app_logger : file read as csv from ../data/store.csv
 2021-08-01 23:40:01,829 : INFO : app_logger : file read as csv from ../data/test.csv
 2021-08-01 23:40:01,829 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-02 22:26:43,945 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-02 22:26:43,945 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-02 22:26:43,950 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-02 22:26:43,950 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-02 22:26:44,001 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-02 22:26:44,001 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-02 22:28:59,329 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-02 22:28:59,329 : INFO : app_logger : file read as csv from ../data/train.csv
+2021-08-02 22:28:59,334 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-02 22:28:59,334 : INFO : app_logger : file read as csv from ../data/store.csv
+2021-08-02 22:28:59,381 : INFO : app_logger : file read as csv from ../data/test.csv
+2021-08-02 22:28:59,381 : INFO : app_logger : file read as csv from ../data/test.csv
