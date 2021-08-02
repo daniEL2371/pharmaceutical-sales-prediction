@@ -12,6 +12,9 @@ jobs:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           pip install -r requirements.txt
-          dvc pull
           cd scripts
           python trainRegressor.py
+          cd ..
+          cat random-forest-metrics.txt >> report.md
+          #cml-publish random-forest-result.png --md >> report.md
+          cml-send-comment report.md
