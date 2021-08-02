@@ -12,3 +12,6 @@ jobs:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           pip install -r requirements.txt
+          dvc pull
+          cd scripts
+          python trainRegressor.py
